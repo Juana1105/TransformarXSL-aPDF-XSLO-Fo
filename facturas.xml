@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+	<factura numFactura="1322">
+		<fecha>
+			<dia>24</dia>
+			<mes>5</mes>
+			<anyo>2023</anyo>
+		</fecha>
+		<formaPago>Transferencia</formaPago>
+		<datosVendedor>
+			<nombre>PC Componentes y Multimedia SL</nombre>
+			<CIF>B73347494</CIF>
+			<direccion>
+				<calle>Avda de Europa</calle>
+				<numero>2-3</numero>
+				<extra>Poligono Ind Las salinas</extra>
+				<poblacion>Alhama de Murcia</poblacion>
+				<codigoPostal>30840</codigoPostal>
+				<provincia>Murcia</provincia>
+			</direccion>
+		</datosVendedor>
+		<datosComprador>
+			<nombre>Jose Antonio González Ibarra</nombre>
+			<direccion>
+				<calle>Acera de Recoletos</calle>
+				<numero>1</numero>
+				<extra>1º Izquierda</extra>
+				<poblacion>Valladolid</poblacion>
+				<codigoPostal>47001</codigoPostal>
+				<provincia>Valladolid</provincia>
+			</direccion>
+			<identificacion tipo="NIF">71160012l</identificacion>
+			<telefono>633225544</telefono>
+		</datosComprador>
+	<albaran>
+		<numAlbaran>12014851732</numAlbaran>
+	</albaran>
+	<productos>
+			<producto id="234">
+				<nombre>ASUS DUAL RTX 4060ti</nombre>
+				<precio>420</precio>
+				<numUnidades>1</numUnidades>
+				<total>420</total>
+			</producto>
+			<producto id="236">
+				<nombre>Intel i7 13700k</nombre>
+				<precio>355</precio>
+				<numUnidades>1</numUnidades>
+				<total>355</total>
+			</producto>
+			<producto id="237">
+				<nombre>G.SKILL DDR5 16GB 3000MHz</nombre>
+				<precio>110</precio>
+				<numUnidades>2</numUnidades>
+				<total>220</total>
+			</producto>
+			<producto id="238">
+				<nombre>Monitor 4k DELL</nombre>
+				<precio>499</precio>
+				<numUnidades>1</numUnidades>
+				<total>499</total>
+			</producto>
+			<producto id="238">
+				<nombre>XBOX Series X</nombre>
+				<precio>499</precio>
+				<numUnidades>2</numUnidades>
+				<total>998</total>
+			</producto>
+			<producto id="238">
+				<nombre>Portátil Macbook air 2023</nombre>
+				<precio>1499</precio>
+				<numUnidades>1</numUnidades>
+				<total>1499</total>
+			</producto>
+			<producto id="239">
+				<nombre>Ratón Logitech g502</nombre>
+				<precio>55</precio>
+				<numUnidades>2</numUnidades>
+				<total>110</total>
+			</producto>
+			<producto id="249">
+				<nombre>Teclado Razer Huntsman</nombre>
+				<precio>100</precio>
+				<numUnidades>1</numUnidades>
+				<total>100</total>
+			</producto>
+			<producto id="229">
+				<nombre>Pantalla 8D</nombre>
+				<precio>100</precio>
+				<numUnidades>3</numUnidades>
+				<total>300</total>
+			</producto>
+			<producto id="286">
+				<nombre>Portátil ASUS</nombre>
+				<precio>1000</precio>
+				<numUnidades>1</numUnidades>
+				<total>1000</total>
+			</producto>
+	</productos>
+	<subtotal>4618,79</subtotal>
+	<iva tipo="21%">982,21</iva>
+	<total>5101</total>
+	</factura>
+
+	<factura numFactura="1567">
+		<fecha>
+			<dia>26</dia>
+			<mes>5</mes>
+			<anyo>2023</anyo>
+		</fecha>
+		<formaPago>Transferencia</formaPago>
+		<datosVendedor>
+			<nombre>PC Componentes y Multimedia SL</nombre>
+			<CIF>B73347494</CIF>
+			<direccion>
+				<calle>Avda de Europa</calle>
+				<numero>2-3</numero>
+				<extra>Poligono Ind Las salinas</extra>
+				<poblacion>Alhama de Murcia</poblacion>
+				<codigoPostal>30840</codigoPostal>
+				<provincia>Murcia</provincia>
+			</direccion>
+		</datosVendedor>
+		<datosComprador>
+			<nombre>Juana Sierra</nombre>
+			<direccion>
+				<calle>Calle Doctrinos</calle>
+				<numero>12</numero>
+				<extra>1º Izquierda</extra>
+				<poblacion>Valladolid</poblacion>
+				<codigoPostal>47002</codigoPostal>
+				<provincia>Valladolid</provincia>
+			</direccion>
+			<identificacion tipo="NIF">71160035l</identificacion>
+			<telefono>633225566</telefono>
+		</datosComprador>
+	<albaran>
+		<numAlbaran>12014851999</numAlbaran>
+	</albaran>
+	<productos>
+			<producto id="204">
+				<nombre>Teclado RTX 4060ti</nombre>
+				<precio>20</precio>
+				<numUnidades>3</numUnidades>
+				<total>60</total>
+			</producto>
+			<producto id="236">
+				<nombre>Intel i7 13700k</nombre>
+				<precio>355</precio>
+				<numUnidades>1</numUnidades>
+				<total>355</total>
+			</producto>
+			<producto id="237">
+				<nombre>Tarjeta DDR5 16GB 3000MHz</nombre>
+				<precio>110</precio>
+				<numUnidades>2</numUnidades>
+				<total>220</total>
+			</producto>
+			<producto id="218">
+				<nombre>Monitor 4k DELL</nombre>
+				<precio>499</precio>
+				<numUnidades>1</numUnidades>
+				<total>499</total>
+			</producto>
+			<producto id="238">
+				<nombre>XBOX Series X</nombre>
+				<precio>499</precio>
+				<numUnidades>2</numUnidades>
+				<total>998</total>
+			</producto>
+			<producto id="298">
+				<nombre>Portátil Macbook air 2023</nombre>
+				<precio>1499</precio>
+				<numUnidades>1</numUnidades>
+				<total>1499</total>
+			</producto>
+			<producto id="239">
+				<nombre>Ratón Logitech g502</nombre>
+				<precio>55</precio>
+				<numUnidades>2</numUnidades>
+				<total>110</total>
+			</producto>
+			<producto id="234">
+				<nombre>ASUS DUAL RTX 4060ti</nombre>
+				<precio>420</precio>
+				<numUnidades>1</numUnidades>
+				<total>420</total>
+			</producto>
+			<producto id="136">
+				<nombre>Intel i5 1300k</nombre>
+				<precio>355</precio>
+				<numUnidades>1</numUnidades>
+				<total>355</total>
+			</producto>
+			<producto id="137">
+				<nombre>G.SKILL DDR5 16GB 3000MHz</nombre>
+				<precio>110</precio>
+				<numUnidades>2</numUnidades>
+				<total>220</total>
+			</producto>
+			<producto id="149">
+				<nombre>Teclado Razer Huntsman</nombre>
+				<precio>100</precio>
+				<numUnidades>1</numUnidades>
+				<total>100</total>
+			</producto>		
+	</productos>
+	<subtotal>3918,79</subtotal>
+	<iva tipo="21%">882,21</iva>
+	<total>4701</total>
+	</factura>
+	<factura numFactura="1672">
+		<fecha>
+			<dia>14</dia>
+			<mes>5</mes>
+			<anyo>2023</anyo>
+		</fecha>
+		<formaPago>Transferencia</formaPago>
+		<datosVendedor>
+			<nombre>PC Componentes y Multimedia SL</nombre>
+			<CIF>B73347494</CIF>
+			<direccion>
+				<calle>Avda de Europa</calle>
+				<numero>2-3</numero>
+				<extra>Poligono Ind Las salinas</extra>
+				<poblacion>Alhama de Murcia</poblacion>
+				<codigoPostal>30840</codigoPostal>
+				<provincia>Murcia</provincia>
+			</direccion>
+		</datosVendedor>
+		<datosComprador>
+			<nombre>Ramon Garcia</nombre>
+			<direccion>
+				<calle>Avda Salamanca 37</calle>
+				<numero>1</numero>
+				<extra>1º Izquierda</extra>
+				<poblacion>Valladolid</poblacion>
+				<codigoPostal>47001</codigoPostal>
+				<provincia>Valladolid</provincia>
+			</direccion>
+			<identificacion tipo="NIF">71199012l</identificacion>
+			<telefono>633212544</telefono>
+		</datosComprador>
+	<albaran>
+		<numAlbaran>16614867909</numAlbaran>
+	</albaran>
+	<productos>
+			<producto id="234">
+				<nombre>ASUS DUAL RTX 4060ti</nombre>
+				<precio>420</precio>
+				<numUnidades>1</numUnidades>
+				<total>420</total>
+			</producto>
+			<producto id="236">
+				<nombre>Intel i7 13700k</nombre>
+				<precio>355</precio>
+				<numUnidades>1</numUnidades>
+				<total>355</total>
+			</producto>
+			<producto id="237">
+				<nombre>G.SKILL DDR5 16GB 3000MHz</nombre>
+				<precio>110</precio>
+				<numUnidades>2</numUnidades>
+				<total>220</total>
+			</producto>
+			<producto id="238">
+				<nombre>Monitor 4k DELL</nombre>
+				<precio>499</precio>
+				<numUnidades>1</numUnidades>
+				<total>499</total>
+			</producto>
+			<producto id="236">
+				<nombre>MacBook 16GB</nombre>
+				<precio>820</precio>
+				<numUnidades>1</numUnidades>
+				<total>820</total>
+			</producto>
+			<producto id="236">
+				<nombre>Intel i7 13700k</nombre>
+				<precio>355</precio>
+				<numUnidades>1</numUnidades>
+				<total>355</total>
+			</producto>
+			<producto id="238">
+				<nombre>XBOX Series X</nombre>
+				<precio>499</precio>
+				<numUnidades>2</numUnidades>
+				<total>998</total>
+			</producto>
+			<producto id="238">
+				<nombre>Portátil Macbook air 2023</nombre>
+				<precio>1499</precio>
+				<numUnidades>1</numUnidades>
+				<total>1499</total>
+			</producto>
+			<producto id="639">
+				<nombre>Ratón Logitech g502</nombre>
+				<precio>55</precio>
+				<numUnidades>2</numUnidades>
+				<total>110</total>
+			</producto>
+			<producto id="149">
+				<nombre>Teclado Razer Huntsman</nombre>
+				<precio>100</precio>
+				<numUnidades>1</numUnidades>
+				<total>100</total>
+			</producto>		
+	</productos>
+	<subtotal>4318,79</subtotal>
+	<iva tipo="21%">882,21</iva>
+	<total>5701</total>
+	</factura>
+</facturas>
